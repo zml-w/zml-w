@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://civitai.com/user/zml_w">Civitai</a> -
-<a href="https://space.bilibili.com/691121489">BiliBili</a>
+<a href="https://space.bilibili.com/691121489">
+<img src="https://img.shields.io/badge/BiliBili-00A1D6?style=flat&logo=bilibili&logoColor=white" />
+</a>
 </p>
