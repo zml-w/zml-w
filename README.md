@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong><em>Between waking and dreaming.</em></strong><br/>
-  <strong><em>在醒来与做梦之间。</em></strong>
+  <strong><em>Living · Sleeping · Dreaming</em></strong><br/>
+  <sub>活着 · 睡觉 · 在梦里</sub>
 </p>
 
 <p align="center">
