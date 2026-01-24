@@ -3,7 +3,14 @@
 </p>
 
 <p align="center">
-<a href="https://space.bilibili.com/691121489">
-<img src="https://img.shields.io/badge/BiliBili-00A1D6?style=flat&logo=bilibili&logoColor=white" />
-</a>
+  <strong><em>Between waking and dreaming.</em></strong><br/>
+  <strong><em>在醒来与做梦之间。</em></strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zml-w&color=D4AF37" />
+  &nbsp;&nbsp;
+  <a href="https://space.bilibili.com/691121489">
+    <img src="https://img.shields.io/badge/BiliBili-00A1D6?style=flat&logo=bilibili&logoColor=white" />
+  </a>
 </p>
